@@ -1,4 +1,4 @@
-# lexcical-analyzer-cpp-code
+# lexical-analyzer-cpp-code
 here is my code of a lexical analyzer using c++
 
 the "input.txt" file is the code example to be processed with a lexical analyzer 
